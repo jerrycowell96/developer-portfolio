@@ -37,8 +37,14 @@
     width: 295px;
     border-radius: 1rem;
     margin-bottom: var(--mb-1);
+    transition: transform .3s; /* Animation */
+    margin: 0 auto;
 }
 
+.work__img:hover {
+    transform: scale(.95);
+
+}
 .work__title {
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
@@ -46,6 +52,7 @@
 }
 
 .work__button {
+    grid-template-columns: repeat(2, max-content);
     color: var(--text-color);
     font-size: var(--small-font-size);
     display: flex;

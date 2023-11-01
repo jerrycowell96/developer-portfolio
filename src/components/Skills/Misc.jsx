@@ -11,7 +11,7 @@ const Misc = () => {
           <i class='bx bx-badge-check'></i>
 
           <div>
-            <h3 className="skills__name">Adobe Creative Suite</h3>
+            <h3 className="skills__name">Adobe Photoshop</h3>
             <span className="skills__level">Advanced</span>
           </div>
         </div>
@@ -20,7 +20,7 @@ const Misc = () => {
           <i class='bx bx-badge-check'></i>
 
           <div>
-            <h3 className="skills__name">Video Editing</h3>
+            <h3 className="skills__name">Adobe Premiere</h3>
             <span className="skills__level">Advanced</span>
           </div>
         </div>
@@ -29,7 +29,7 @@ const Misc = () => {
           <i class='bx bx-badge-check'></i>
 
           <div>
-            <h3 className="skills__name">Graphic Design</h3>
+            <h3 className="skills__name">Adobe InDesign</h3>
             <span className="skills__level">Advanced</span>
           </div>
         </div>
@@ -40,7 +40,7 @@ const Misc = () => {
             <i class='bx bx-badge-check'></i>
 
             <div>
-              <h3 className="skills__name">Microsoft Office/ Suite</h3>
+              <h3 className="skills__name">Microsoft Office</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Misc = () => {
             <i class='bx bx-badge-check'></i>
 
             <div>
-              <h3 className="skills__name">Copywriting</h3>
+              <h3 className="skills__name">Figma</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
@@ -58,7 +58,7 @@ const Misc = () => {
             <i class='bx bx-badge-check'></i>
 
             <div>
-              <h3 className="skills__name">placeholder</h3>
+              <h3 className="skills__name">Graphic Design</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>

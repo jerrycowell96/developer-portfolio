@@ -55,11 +55,10 @@ const Data = () => {
                 </svg>
             </h1>
             <h3 className="home__subtitle">Web Developer</h3>
-            <p className="home__description"> I am creative designer and web Developer based in Dayton 
-            Ohio and i am very passionate and dedicated to my work.
+            <p className="home__description"> I am a dynamic and innovative software engineer with a Master's in Software Engineering from Kennesaw State University, dedicated to crafting cutting-edge solutions that bridge the gap between technology and business.
             </p>
            <a href="#contact" className="button button--flex">
-            Say Hello
+            Hire Me
                 <svg
                     class="button__icon"
                     xmlns="http://www.w3.org/2000/svg"
