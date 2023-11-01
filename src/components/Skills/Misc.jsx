@@ -3,7 +3,7 @@ import React from 'react'
 const Misc = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Frontend Developer</h3>
+      <h3 className="skills__title">Design</h3>
 
       <div className="skills__box">
       <div className="skills__group">
@@ -11,7 +11,7 @@ const Misc = () => {
           <i class='bx bx-badge-check'></i>
 
           <div>
-            <h3 className="skills__name">placeholder</h3>
+            <h3 className="skills__name">Adobe Creative Suite</h3>
             <span className="skills__level">Advanced</span>
           </div>
         </div>
@@ -20,7 +20,7 @@ const Misc = () => {
           <i class='bx bx-badge-check'></i>
 
           <div>
-            <h3 className="skills__name">placeholder</h3>
+            <h3 className="skills__name">Video Editing</h3>
             <span className="skills__level">Advanced</span>
           </div>
         </div>
@@ -29,7 +29,7 @@ const Misc = () => {
           <i class='bx bx-badge-check'></i>
 
           <div>
-            <h3 className="skills__name">placeholder</h3>
+            <h3 className="skills__name">Graphic Design</h3>
             <span className="skills__level">Advanced</span>
           </div>
         </div>
@@ -40,7 +40,7 @@ const Misc = () => {
             <i class='bx bx-badge-check'></i>
 
             <div>
-              <h3 className="skills__name">placeholder</h3>
+              <h3 className="skills__name">Microsoft Office/ Suite</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Misc = () => {
             <i class='bx bx-badge-check'></i>
 
             <div>
-              <h3 className="skills__name">placeholder</h3>
+              <h3 className="skills__name">Copywriting</h3>
               <span className="skills__level">Advanced</span>
             </div>
           </div>

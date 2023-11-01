@@ -38,10 +38,10 @@ const Qualifications = () => {
             ? "qual__content qual__content-active" : "qual__content"}>
                 <div className="qual__data">
                     <div>
-                        <h3 className="qual__title">Web design</h3>
-                        <span className="qual__subtitle">atlanta institute</span>
+                        <h3 className="qual__title">Wed Developer Certificate</h3>
+                        <span className="qual__subtitle">Zero to Mastery</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2023
                         </div>
                     </div>
 
@@ -59,20 +59,20 @@ const Qualifications = () => {
                         <span className="qual__line"></span>
                     </div>
                     <div>
-                        <h3 className="qual__title">art director</h3>
-                        <span className="qual__subtitle">atlanta institute</span>
+                        <h3 className="qual__title">MS in Software Engineering</h3>
+                        <span className="qual__subtitle">Kennesaw State University</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2021 - 2022
                         </div>
                     </div>
                 </div>
 
                 <div className="qual__data">
                     <div>
-                        <h3 className="qual__title">Web development</h3>
-                        <span className="qual__subtitle">atlanta institute</span>
+                        <h3 className="qual__title">Foundations in Software Engineering Certificate</h3>
+                        <span className="qual__subtitle">Kennesaw State University</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2020 - 2021
                         </div>
                     </div>
 
@@ -90,10 +90,10 @@ const Qualifications = () => {
                         <span className="qual__line"></span>
                     </div>
                     <div>
-                        <h3 className="qual__title">designer plus</h3>
-                        <span className="qual__subtitle">atlanta institute</span>
+                        <h3 className="qual__title">BA in Marketing </h3>
+                        <span className="qual__subtitle">Columbus State University</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2014 - 2018
                         </div>
                     </div>
                 </div>
@@ -103,10 +103,10 @@ const Qualifications = () => {
             ? "qual__content qual__content-active" : "qual__content"}>
                 <div className="qual__data">
                     <div>
-                        <h3 className="qual__title">enter job</h3>
-                        <span className="qual__subtitle">enter company</span>
+                        <h3 className="qual__title">Software Engineering Intern</h3>
+                        <span className="qual__subtitle">Farm-ng Inc.</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2022 - 2023
                         </div>
                     </div>
 
@@ -124,20 +124,20 @@ const Qualifications = () => {
                         <span className="qual__line"></span>
                     </div>
                     <div>
-                        <h3 className="qual__title">enter job</h3>
-                        <span className="qual__subtitle">company</span>
+                        <h3 className="qual__title">Audio / Visual Technician</h3>
+                        <span className="qual__subtitle">Glastonbury, Inc.</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2022 - 2023
                         </div>
                     </div>
                 </div>
 
                 <div className="qual__data">
                     <div>
-                        <h3 className="qual__title">enter job</h3>
-                        <span className="qual__subtitle">company</span>
+                        <h3 className="qual__title">Sales and Retail Associate</h3>
+                        <span className="qual__subtitle">FedEx</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2021 - 2022
                         </div>
                     </div>
 
@@ -155,10 +155,10 @@ const Qualifications = () => {
                         <span className="qual__line"></span>
                     </div>
                     <div>
-                        <h3 className="qual__title">designer plus</h3>
-                        <span className="qual__subtitle">atlanta institute</span>
+                        <h3 className="qual__title">Creative Assistant</h3>
+                        <span className="qual__subtitle">TED</span>
                         <div className="qual__calendar">
-                            <i className="uil uil-calendar-alt"></i> 2021 - present
+                            <i className="uil uil-calendar-alt"></i> 2021
                         </div>
                     </div>
                 </div>
