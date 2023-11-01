@@ -33,10 +33,11 @@ const Contact = () => {
                 <i className="bx bx-mail-send contact__card-icon"></i>
 
                 <h3 className="contact__card-title">email</h3>
-                <span className="contact__card-data">user@gmail.com</span>
+                <span className="contact__card-data">jerrycowell96@gmail.com</span>
 
-                <a href="" className="contact__button">
-                  Write Me{" "} 
+                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com" target="_blank" 
+                className="contact__button">
+                  Email Me{" "} 
                   <i className="bx bx-right-arrow-alt contact__button-icon">
 
                   </i>
@@ -44,12 +45,12 @@ const Contact = () => {
               </div>
 
               <div className="contact__card">
-                <i className="bx bx-whatsapp contact__card-icon"></i>
-                <h3 className="contact__card-title">whatsapp</h3>
-                <span className="contact__card-data">7709053972</span>
+                <i className="bx bx-phone contact__card-icon"></i>
+                <h3 className="contact__card-title">phone</h3>
+                <span className="contact__card-data">(770)905-3972</span>
 
-                <a href="" className="contact__button">
-                  Write Me{" "} 
+                <a href="sms:7709053972" className="contact__button">
+                  Text Me{" "} 
                   <i className="bx bx-right-arrow-alt contact__button-icon">
                     
                   </i>
@@ -57,13 +58,13 @@ const Contact = () => {
               </div>
            
               <div className="contact__card">
-                <i className="bx bx-messenger contact__card-icon"></i>
+                <i className="uil uil-linkedin contact__card-icon"></i>
 
-                <h3 className="contact__card-title">messenger</h3>
-                <span className="contact__card-data">user.fb123</span>
+                <h3 className="contact__card-title">LinkedIn</h3>
+                <span className="contact__card-data">jerrycowell</span>
 
-                <a href="" className="contact__button">
-                  Write Me{" "} 
+                <a href="https://www.linkedin.com/in/jerrycowell/" target="_blank" className="contact__button">
+                  Connect with Me{" "} 
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
               </div>

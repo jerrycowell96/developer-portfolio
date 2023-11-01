@@ -27,7 +27,7 @@ export const projectsData = [
         image: Work3,
         title: "Photography Portfolio",
         category: "web",
-        demoLink: "https://github.com/jerrycowell96/photo-portfolio",
+        demoLink: "https://jerrycowell96.github.io/photo-portfolio/",
         githubLink: "https://github.com/jerrycowell96/photo-portfolio"
     },
     {
