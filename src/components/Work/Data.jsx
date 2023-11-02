@@ -1,8 +1,8 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Work1 from "../../assets/bwapp.png";
+import Work2 from "../../assets/BW.png";
+import Work3 from "../../assets/photography.png";
+import Work4 from "../../assets/adventure.png";
+import Work5 from "../../assets/marketing.png";
 
 
 export const projectsData = [
@@ -11,7 +11,7 @@ export const projectsData = [
         image: Work1,
         title: "BlackWall Application",
         category: "app",
-        demoLink: "https://www.youtube.com",
+        demoLink: "https://github.com/jerrycowell96/blackwall-app",
         githubLink: "https://github.com/jerrycowell96/blackwall-app"
     },
     {
@@ -44,7 +44,7 @@ export const projectsData = [
         title: "Design Portfolio",
         category: "design",
         demoLink: " https://professional.myportfolio.com",
-        githubLink: "https://dev.azure.com/KSUSWE6733-3/TogetherDating"
+        githubLink: "https://professional.myportfolio.com"
     }
 ];
 
