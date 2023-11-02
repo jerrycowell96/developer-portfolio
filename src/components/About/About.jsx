@@ -18,7 +18,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                Software Engineer with a Master's in Software Engineering and a robust foundation in Business Administration, adept at crafting innovative solutions uniting technology and business strategies.
+                Jerry Cowell Jr., originally from Atlanta and now based in Dayton, Ohio, is a proficient software engineer skilled in Java, JavaScript, and Node.js. With expertise in Adobe Creative Suite, his ability to seamlessly blend technical proficiency with creative design showcases his strong aptitude for holistic problem-solving and effective communication within collaborative environments.
                 </p>
 
                 <a download="" href={CV} className="button button--flex">Download CV

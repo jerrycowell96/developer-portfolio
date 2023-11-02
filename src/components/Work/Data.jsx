@@ -27,7 +27,7 @@ export const projectsData = [
         image: Work3,
         title: "Photography Portfolio",
         category: "web",
-        demoLink: "https://jerrycowell96.github.io/photo-portfolio/",
+        demoLink: "https://photography-portfolioex.netlify.app/",
         githubLink: "https://github.com/jerrycowell96/photo-portfolio"
     },
     {
