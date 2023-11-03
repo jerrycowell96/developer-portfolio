@@ -50,7 +50,7 @@ const Misc = () => {
 
             <div>
               <h3 className="skills__name">Figma</h3>
-              <span className="skills__level">Advanced</span>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
           
@@ -59,7 +59,7 @@ const Misc = () => {
 
             <div>
               <h3 className="skills__name">Graphic Design</h3>
-              <span className="skills__level">Advanced</span>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
       </div>
